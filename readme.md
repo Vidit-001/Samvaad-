@@ -398,24 +398,6 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 ---
 
-## Contact & Support
-
-### Development Team
-
-**Priyanshu Raj**
-- **GitHub**: [@priyanshuraj27](https://github.com/priyanshuraj27)
-- **LinkedIn**: [priyanshu-raj-iiitn](https://www.linkedin.com/in/priyanshu-raj-iiitn/)
-
-**Bhuvan Goel**
-- **GitHub**: [@bhuvangoel04](https://github.com/bhuvangoel04)
-- **LinkedIn**: [bhuvan-goel-8611b7287](https://www.linkedin.com/in/bhuvan-goel-8611b7287/)
-
-### Community
-- **Discussions**: [GitHub Discussions](https://github.com/priyanshuraj27/samvaad/discussions)
-- **Issues**: [Report bugs](https://github.com/priyanshuraj27/samvaad/issues)
-
----
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
