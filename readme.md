@@ -241,23 +241,6 @@ Expert (601-1000 XP) → Master (1001-1500 XP) → Grand Master (1500+ XP)
 
 ---
 
-## Screenshots
-
-<div align="center">
-
-### Dashboard with Gamification
-![Dashboard](assets/screenshots/dashboard.png)
-
-### Live Debate Interface
-![Debate Interface](assets/screenshots/debate.png)
-
-### Achievement & Progress Tracking
-![Achievements](assets/screenshots/achievements.png)
-
-### AI Adjudication Results
-![Adjudication Results](assets/screenshots/results.png)
-
-</div>
 
 ---
 
